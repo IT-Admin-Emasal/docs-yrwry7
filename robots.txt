@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-isw2kd.yoursingles.online/sitemap.xml
